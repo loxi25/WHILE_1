@@ -32,4 +32,4 @@ i = i+1
 
 # diseño 
 
-¡[diagrama de flujo](diagrama.png "diagrama de flujo")
+
